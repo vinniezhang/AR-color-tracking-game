@@ -1,5 +1,5 @@
 # AR-color-tracking-game
-Mini AR color tracking game implemented with p5 library
+Mini AR color tracking game implemented with p5 library and perlin noise
 
 **To Play:**
 1. Click on the camera screen to select which pixel to track the color of - and act as the location of the dog avatar.
