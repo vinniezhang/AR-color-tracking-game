@@ -2,7 +2,7 @@
 Mini AR color tracking game implemented with p5 library
 
 **To Play:**
-1. Click on the screen to track the color of the pixel selected
-2. The dog avatar will stick to that pixel, and user can move the dog around via the AR color-tracking technology
-3. The objective of the goal is to avoid hitting squirrels and catch the mole!
+1. Click on the camera screen to select which pixel to track the color of - and act as the location of the dog avatar.
+2. The user can move the dog around via the AR color-tracking technology.
+3. The objective of the goal is to gain points by avoiding squirrels and catching the mole!
 
